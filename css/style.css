@@ -1,0 +1,23 @@
+body {
+    font-size: 1.6rem;
+}
+
+.row{
+    margin:1rem;
+}
+
+.mocs{
+    color:blue;
+}
+
+iframe{
+    width:100%;
+    min-height:650px;
+    -webkit-overflow-scrolling: touch;
+    overflow: auto;
+}
+
+.pdfobject-container{
+    height:700px;
+    width:100%;
+}
